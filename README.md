@@ -2,9 +2,9 @@
 
 
 # Work Experience
-<div>``
-<h2>Trebuchet (2021-present)</h3>
-<h4 >Learner</h4>
+<div>
+<h2>Trebuchet (2021-present)</h2>
+<h4>Learner</h4>
 This postion may be found odd, but yes this is my job! learning, experimenting, and exploring tech world.
 </div>
 <div>
@@ -19,17 +19,17 @@ Assigned to manage people in and across the community.
 </div>
 
 
-# Achievements
+ <h1>Achievements</h1>
 
 Ranked first position in district level anchoring competition (Ernakulam district) and fifth in state organized by CBSE.(2019)
 
-# Publications
+<h1>Publications</h1>
 
 "Optimisation Techniques for Perfect Pairing":
 	Research focuses on the aspects of finding ideal pairs among ’n’ entities under specified constraints.
 
 
-# Educational Qualification
+<h1>Educational Qualification</h1>
 <h3>Cochin University of Science and Technology (2021-present)</h3>
 <h4>B-tech</h4>
 First year student at Computer Science Department
