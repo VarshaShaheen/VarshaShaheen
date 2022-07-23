@@ -22,7 +22,7 @@ Ranked first position in district level anchoring competition (Ernakulam distric
 
 <h1>Publications</h1>
 
-"Optimisation Techniques for Perfect Pairing":
+"Optimisation Techniques for Perfect Pairing":<br>
 	Research focuses on the aspects of finding ideal pairs among ’n’ entities under specified constraints.
 
 
