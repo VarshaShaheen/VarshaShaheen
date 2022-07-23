@@ -2,7 +2,9 @@
 
 # Work Experience
 <div>
-<h2>Trebuchet (2021-present)<//ng, experimenting, and exploring tech world.
+<h2>Trebuchet (2021-present)</h2>
+<h4 >Learner</h4>
+This postion may be found odd, but yes this is my job! learning, experimenting, and exploring tech world.
 </div>
 <div>
 <h2>Maker Ghat (2021-present)</h2>
