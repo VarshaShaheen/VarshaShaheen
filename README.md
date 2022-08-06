@@ -9,7 +9,7 @@ This postion may be found odd, but yes this is my job! learning, experimenting, 
 <div>
 <h2>Maker Ghat (2021-present)</h2>
 <h4 >Content Developer</h4>
-Tasked at creating educational videos for student traing programmes.
+Tasked at creating educational videos for student training programmes.
 </div>
 <div>
 <h2>G-Tech MuLearn (2021-present)</h2>
