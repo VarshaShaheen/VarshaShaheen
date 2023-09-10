@@ -15,7 +15,6 @@
 <h3> Here's who Iam </h3>
 
 - 🔭 I’m currently studying B-Tech in Computer Science and Engineering at School of Engineering, Cochin University of Science and Technology.
-- 🏢 I'm a mentor at Skill Orientation centre for Engineering (SOCE) Cusat.
 
 <p>Connect with me on
 <br>	
